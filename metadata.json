@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Kōhī | Artisanal Roastery & 3D Slow Bar",
+  "description": "Artisanal specialty coffee roastery featuring interactive 3D drink craft, single-origin pour-overs, curated slow bar tasting, table reservations, and cafe ambience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
